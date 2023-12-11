@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Wishes</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            text-align: center;
+            margin: 50px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: #e44d26;
+        }
+
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Happy Birthday, [Girlfriend's Name]!</h1>
+        <p>Dear [Girlfriend's Name],</p>
+        <p>On this special day, I want to shower you with love, laughter, and warm wishes. May your day be as beautiful and vibrant as you are!</p>
+        <img src="https://example.com/cute-picture-1.jpg" alt="Cute Picture 1">
+        <p>Wishing you a day filled with joy and surrounded by the people and things you love.</p>
+        <img src="https://example.com/cute-picture-2.jpg" alt="Cute Picture 2">
+        <p>May this year bring you countless moments of happiness and unforgettable memories. You deserve all the love and joy in the world!</p>
+        <img src="https://example.com/cute-picture-3.jpg" alt="Cute Picture 3">
+        <p>With each passing year, your light shines even brighter. Here's to celebrating the wonderful person you are!</p>
+        <img src="https://example.com/cute-picture-4.jpg" alt="Cute Picture 4">
+        <p>Happy Birthday, my love! May your day be as sweet as the smiles these pictures bring.</p>
+        <img src="https://example.com/cute-picture-5.jpg" alt="Cute Picture 5">
+        <p>With all my love and warmest wishes,</p>
+        <p>[Your Name]</p>
+    </div>
+
+</body>
+</html>
